@@ -80,7 +80,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-3">
             <div className="w-10 h-10 bg-navy-700 rounded-full flex items-center justify-center">
-              <span className="text-white font-bold text-lg">DG</span>
+              <span className="text-white font-bold text-lg">lady-justice-logo.png</span>
             </div>
             <span className="text-2xl font-serif font-bold text-gray-900">DG Immigration Support</span>
           </div>
